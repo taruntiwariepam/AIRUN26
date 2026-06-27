@@ -3,7 +3,7 @@
 **Date:** 2026-06-27
 **Author:** [Tarun Tiwari — SRE and DevOps Lead]
 **Project:** [SRE & Cloud Deployment Automation Team]
-**Committed location:** []
+**Committed location:** [https://github.com/taruntiwariepam/AIRUN26/blob/main/maturity-gap-analysis.md]
 
 ## AI Maturity Assessment & Action Plan: Documentum Upgrade Automation
 ##Project Key: EPMCDMETST
