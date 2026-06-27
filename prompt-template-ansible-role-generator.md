@@ -1,5 +1,5 @@
 Prompt Template: Ansible Role Generator for Documentum Stack Components
-Date: 2024-10-24 Author: Tarun Tiwari — SRE and DevOps Lead Project: Documentum SRE Automation (Project Key: EPMCDMETST) Model: Claude 3.5 Sonnet via DIAL DIAL location: My Workspace/Prompts/SRE-Automation/Ansible-Role-Generator Committed location: https://github.com/epam-coursework/epmcdmetst-devops/blob/main/docs/automation/prompt-template-ansible-role-generator.md
+Date: 2024-10-24 Author: Tarun Tiwari — SRE and DevOps Lead Project: Documentum SRE Automation (Project Key: EPMCDMETST) Model: Claude 3.5 Sonnet via DIAL DIAL location: My Workspace/Prompts/SRE-Automation/Ansible-Role-Generator Committed location:https://github.com/taruntiwariepam/AIRUN26/edit/main/prompt-template-ansible-role-generator.md
 Purpose
 This prompt translates manual component installation commands and variables into a complete, standard-compliant, and SRE-secure Ansible Role structure during the deployment scripting stage of our Documentum stack upgrade.
 Variable Placeholders
