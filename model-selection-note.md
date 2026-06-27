@@ -4,7 +4,7 @@
 **Author:** Tarun Tiwari — SRE and DevOps Lead
 **Project:** Documentum SRE Automation (Project Key: **EPMCDMETST**)
 **Task:** Generate a step-by-step, dependency-aware deployment playbook to upgrade a complex Documentum stack (incorporating OTDS, CS, xPlore, Tomcat, and D2).
-**Committed location:** `https://github.com/taruntiwariepam/AIRUN26/model-selection-note.md`
+**Committed location:** `https://github.com/taruntiwariepam/AIRUN26/blob/main/model-selection-note.md`
 
 ---
 
