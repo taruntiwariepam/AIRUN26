@@ -4,7 +4,7 @@
 **Author:** Tarun Tiwari — SRE and DevOps Lead
 **Project:** Documentum SRE Automation (Project Key: **EPMCDMETST**)
 **Task:** Translate a manual software installation step into an idempotent, production-ready Ansible playbook task.
-**Committed location:** `https://github.com/epam-coursework/epmcdmetst-devops/blob/main/docs/automation/prompt-template-ansible-generation.md`
+**Committed location:** 'https://github.com/taruntiwariepam/AIRUN26/blob/main/prompt-template-ansible-generation.md'
 
 ---
 
